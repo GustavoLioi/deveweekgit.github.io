@@ -108,20 +108,12 @@ body {
 
 .references ul li{
 
-.references ul li {
-
     padding: .4rem 0;
     display: flex;
     align-items: center;
     color: #d6dbdfaf;
     letter-spacing: 1px;
     font-size: 18px;
-
-    }
-
-.contact-info ul li i,
-.references ul li i{
-
 }
 
 .contact-info ul li i,
