@@ -2,10 +2,7 @@
     background-color: rgba(5, 0, 0, 0.438);
     padding: 10px;
     border-radius:20px ;
-    -webkit-border-radius:20px ;
-    -moz-border-radius:20px ;
-    -ms-border-radius:20px ;
-    -o-border-radius:20px ; rtf
+   
 }
 
 .container{
@@ -53,7 +50,7 @@ background-color: azure;
 display: flex;
 justify-content:flex-start;
 height: 100px;
-width: 720px;
+
 }
 .img{
     background-color: black;
