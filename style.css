@@ -6,6 +6,7 @@
     font-family: 'Roboto', sans-serif;
 }
 
+
 body {
     background-color: #70c6c7;
 }
@@ -42,17 +43,23 @@ body {
 }
 
 .profile .profile-image {
+
+
     width: 100%;
 
 
 }
 
 .profile .profile-image {
+
     position: auto;
     width: 244px;
     height: 122px;
     left: 116px;
     top: 64px;
+
+
+
 
 }
 
@@ -64,12 +71,18 @@ body {
     text-align: center;
     font-weight: bold;
 
+
+
     padding: 1rem 0;
+
 
     padding: 1rem;
     position: center;
     
     
+
+
+
 
 }
 
@@ -82,10 +95,16 @@ body {
     font-weight: bold;
     padding-bottom: 1rem;
 
+    position: center;
+
+    
+
+
 
     position: center;
 
  
+
 }
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
@@ -106,7 +125,11 @@ body {
 
 .contact-info ul li,
 
+.references ul li {
+
+
 .references ul li{
+
 
     padding: .4rem 0;
     display: flex;
@@ -118,6 +141,9 @@ body {
 
 .contact-info ul li i,
 .references ul li i {
+
+
+
 
     padding-right: 1rem;
     font-size: 18px;
@@ -230,11 +256,14 @@ body {
     padding-left: 5px;
 }
 
+
+
 .site {
     text-decoration: none;
     color: #d6dbdfaf;
     
 }
+
 
 
 /* Media queries */
