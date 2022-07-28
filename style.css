@@ -39,28 +39,18 @@ body {
 .profile {
     width: 100%;
     border-bottom: 2px solid #1B2631;
-
 }
 
 .profile .profile-image {
-
-
     width: 100%;
-
-
 }
 
 .profile .profile-image {
-
     position: auto;
     width: 244px;
     height: 122px;
     left: 116px;
     top: 64px;
-
-
-
-
 }
 
 .name {
@@ -70,20 +60,9 @@ body {
     text-transform: uppercase;
     text-align: center;
     font-weight: bold;
-
-
-
     padding: 1rem 0;
-
-
     padding: 1rem;
     position: center;
-    
-    
-
-
-
-
 }
 
 .profession {
@@ -94,17 +73,8 @@ body {
     letter-spacing: 2px;
     font-weight: bold;
     padding-bottom: 1rem;
-
     position: center;
-
-    
-
-
-
     position: center;
-
- 
-
 }
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
@@ -124,13 +94,8 @@ body {
 }
 
 .contact-info ul li,
-
-.references ul li {
-
-
+.references ul li 
 .references ul li{
-
-
     padding: .4rem 0;
     display: flex;
     align-items: center;
@@ -141,10 +106,6 @@ body {
 
 .contact-info ul li i,
 .references ul li i {
-
-
-
-
     padding-right: 1rem;
     font-size: 18px;
     color: #2E86C1;
